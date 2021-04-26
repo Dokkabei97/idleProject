@@ -8,6 +8,13 @@ Unity 아이들 팬 게임
 
 ***
 
+## 스택
+
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c+sharp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
+
+***
+
 제작:
 [장민규](https://github.com/Dokkabei97)
 
